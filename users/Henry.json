@@ -1,0 +1,12 @@
+{
+	"Name": "Henry",
+	"Age": 37,
+	"Contact": "172830",
+	"Company": "University of Chicago",
+	"Address": {
+		"City": "Chicago",
+		"State": "Illinois",
+		"Country": "USA",
+		"Zipcode": 28305
+	}
+}

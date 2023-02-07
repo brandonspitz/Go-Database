@@ -1,0 +1,12 @@
+{
+	"Name": "Peter",
+	"Age": 17,
+	"Contact": "940257",
+	"Company": "The Daily Bugle",
+	"Address": {
+		"City": "New York City",
+		"State": "New York",
+		"Country": "USA",
+		"Zipcode": 72194
+	}
+}

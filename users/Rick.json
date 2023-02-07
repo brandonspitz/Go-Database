@@ -1,0 +1,12 @@
+{
+	"Name": "Rick",
+	"Age": 21,
+	"Contact": "830466",
+	"Company": "French Foreign Legion",
+	"Address": {
+		"City": "Cairo",
+		"State": "Pyramids",
+		"Country": "Egypt",
+		"Zipcode": 99433
+	}
+}

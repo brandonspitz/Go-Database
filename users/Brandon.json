@@ -1,0 +1,12 @@
+{
+	"Name": "Brandon",
+	"Age": 22,
+	"Contact": "123456",
+	"Company": "Available for hire!",
+	"Address": {
+		"City": "Phoenix",
+		"State": "Arizona",
+		"Country": "USA",
+		"Zipcode": 85383
+	}
+}

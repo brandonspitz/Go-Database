@@ -1,0 +1,12 @@
+{
+	"Name": "K",
+	"Age": 13,
+	"Contact": "739628",
+	"Company": "LA P.D.",
+	"Address": {
+		"City": "Los Angeles",
+		"State": "California",
+		"Country": "USA",
+		"Zipcode": 23920
+	}
+}

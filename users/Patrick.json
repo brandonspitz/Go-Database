@@ -1,0 +1,12 @@
+{
+	"Name": "Patrick",
+	"Age": 27,
+	"Contact": "094852",
+	"Company": "Pierce \u0026 Pierce",
+	"Address": {
+		"City": "New York City",
+		"State": "New York",
+		"Country": "USA",
+		"Zipcode": 72048
+	}
+}
